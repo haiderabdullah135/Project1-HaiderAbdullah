@@ -17,8 +17,8 @@ The following **optional** features are implemented:
 
 - [ ] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
+## They will be completed tomorrow^
 
-## They will be completed tomorrow
 
 The following **additional** features are implemented:
 
