@@ -29,6 +29,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/a/KOy7Zw1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/KOy7Zw1 
+## will fix that too
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
